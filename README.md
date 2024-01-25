@@ -1,7 +1,7 @@
 # Reinforcement-Learning
 Demonstrated value iteration and Q-learning onto agents in a grid world, as well as simulated robot crawler and Pac-Man
 
-This project was written in Python
+This project was written in Python 3.6
 
 To run gridworld and control the agent manually, run command:
 python gridworld.py -m
